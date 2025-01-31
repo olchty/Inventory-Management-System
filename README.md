@@ -7,7 +7,8 @@ Name
 QuantityInStock 
 Price 
 
-Implement methods in the InventoryManager class: 
+Implement methods in the InventoryManager class:
+
 AddProduct(Product product): Adds a product to the inventory. 
 RemoveProduct(int productId): Removes a product from the inventory based on its ID. 
 UpdateProduct(int productId, int newQuantity): Updates the quantity of a product. 
